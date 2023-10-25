@@ -24,13 +24,13 @@ let array=[listaArray];
 
 for(let i=0;i<N;i++){
 alert(i+1 + ' lista');
-    console.log(i+1+ ' lista')
+    console.log(i+1+ ' lista');
     array[i];
 
 for(let u=0;u<10;u++){
     let C=Math.floor(Math.random() * 100)+1;
     array[u]=C;
-    console.log(array[u])
+    console.log(array[u]);
 
 }
 
